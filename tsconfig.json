@@ -14,7 +14,5 @@
     "baseUrl": ".",
     "moduleResolution": "node",
     "esModuleInterop": true
-  },
-  "include": ["./screens/**/*"],
-  "exclude": ["node_modules"]
+  }
 }
