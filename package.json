@@ -28,7 +28,7 @@
     "@types/recompose": "^0.30.6",
     "@types/styled-components": "^4.1.16",
     "@typescript-eslint/parser": "^1.10.2",
-    "babel-eslint": "^10.0.1",
+    "babel-eslint": "^10.0.2",
     "babel-preset-expo": "^5.2.0",
     "eslint": "^5.16.0",
     "eslint-config-airbnb": "^17.1.0",
