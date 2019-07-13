@@ -24,7 +24,7 @@
     "@types/react": "^16.8.23",
     "@types/react-native": "^0.57.62",
     "@types/react-navigation": "^3.0.7",
-    "@types/react-redux": "^7.0.9",
+    "@types/react-redux": "^7.1.1",
     "@types/recompose": "^0.30.6",
     "@types/styled-components": "^4.1.16",
     "@typescript-eslint/parser": "^1.10.2",
